@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602960321113.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "34928C58",
+    "lastKnownWriteTime" : 140202530103520,
+    "last_content_update" : 1602960321113,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E4A826D2",
+        "caption" : "winners_clean",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=winners_clean&cache_key=E4A826D2",
+        "displayedObservations" : "2121",
+        "environment" : "",
+        "expression" : "winners_clean",
+        "object" : "winners_clean",
+        "preview" : "0",
+        "totalObservations" : "2121",
+        "variables" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

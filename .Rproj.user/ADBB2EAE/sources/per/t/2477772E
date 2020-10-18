@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602953307601.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2477772E",
+    "lastKnownWriteTime" : 140200617443332,
+    "last_content_update" : 1602953307601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "b6983ae237d74d1e8cfef852384eaace",
+        "name" : "all_newsletters",
+        "title" : "all_newsletters"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

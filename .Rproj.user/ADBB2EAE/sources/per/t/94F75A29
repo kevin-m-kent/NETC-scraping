@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602951260583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3866558955",
+    "id" : "94F75A29",
+    "lastKnownWriteTime" : 1603027212,
+    "last_content_update" : 1603027212611,
+    "path" : "~/Documents/NETC/scrape.R",
+    "project_path" : "scrape.R",
+    "properties" : {
+        "cursorPosition" : "88,0",
+        "scrollLine" : "63",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

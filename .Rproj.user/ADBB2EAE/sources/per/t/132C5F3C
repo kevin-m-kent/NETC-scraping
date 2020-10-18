@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602954278643.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "132C5F3C",
+    "lastKnownWriteTime" : 8387229122224455680,
+    "last_content_update" : 1602954278643,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "35B731BA",
+        "caption" : "newsletter_pages",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=newsletter_pages&cache_key=35B731BA",
+        "displayedObservations" : "2342",
+        "environment" : "",
+        "expression" : "newsletter_pages",
+        "object" : "newsletter_pages",
+        "preview" : "0",
+        "totalObservations" : "2342",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

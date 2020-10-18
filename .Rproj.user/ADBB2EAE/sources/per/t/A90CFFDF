@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602955746826.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A90CFFDF",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1602955746826,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "54F01A32",
+        "caption" : "italics",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=italics&cache_key=54F01A32",
+        "displayedObservations" : "1200",
+        "environment" : "",
+        "expression" : "italics",
+        "object" : "italics",
+        "preview" : "0",
+        "totalObservations" : "1200",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
